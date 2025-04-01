@@ -3,7 +3,6 @@ Project Overview:
 This project analyzes COVID-19 case trends across multiple countries using Python, focusing on data-driven insights, visualization, and predictive modeling. The dataset includes total cases, testing rates, and country-wise statistics.
 
 Tools & Techniques Used:
-
 Libraries: Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn
 Techniques: Time Series Analysis, Data Cleaning, Statistical Analysis, Linear Regression
 
@@ -13,8 +12,7 @@ Compare COVID-19 cases across countries such as India, China, Japan, Germany, an
 Build a predictive model using Linear Regression to forecast future cases.
 Evaluate the model using Mean Squared Error (MSE) for accuracy.
 
-Results & Insights
-;
+Results & Insights:
 Identified trends in COVID-19 spread across different countries through interactive plots.
 Created bar plots and line charts to compare total cases and testing rates.
 Built a predictive model to estimate future COVID-19 cases based on historical data.
